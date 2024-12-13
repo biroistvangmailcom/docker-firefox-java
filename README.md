@@ -31,7 +31,7 @@ Or you can use docker-compose:
 
     `docker-compose up -d`
 
-2. Connect to `localhost:5900` with VNC
+2. Connect to `localhost:5900` with VNC user root password empty!!!
 
 
 A volume will be mounted `/data/iso:/data` where you can put any files you might need in the container
